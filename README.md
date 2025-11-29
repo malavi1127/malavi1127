@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malavi1127
+- 👋 Hi, I’m malavigollapalli
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning b tech final year
 - 💞️ I’m looking to collaborate on IT
